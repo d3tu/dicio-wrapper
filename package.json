@@ -1,0 +1,17 @@
+{
+  "name": "dicio-wrapper",
+  "version": "0.0.1",
+  "description": "www.dicio.com.br wrapper.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d3tu/dicio-wrapper.git"
+  },
+  "keywords": ["dicio", "wrapper"],
+  "author": "d3tu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d3tu/dicio-wrapper/issues"
+  },
+  "homepage": "https://github.com/d3tu/dicio-wrapper#readme"
+}
